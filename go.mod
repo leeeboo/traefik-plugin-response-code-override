@@ -1,4 +1,4 @@
-module github.com/Lepkem/traefik-plugin-response-code-override
+module github.com/leeeboo/traefik-plugin-response-code-override
 
 go 1.15
 

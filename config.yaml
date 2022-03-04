@@ -11,7 +11,7 @@ api:
 experimental:
   devPlugin:
     goPath: /Users/rafpe/personal/traefik-plugin-response-code-override
-    moduleName: github.com/Lepkem/traefik-plugin-response-code-override
+    moduleName: github.com/leeeboo/traefik-plugin-response-code-override
 
 entryPoints:
   http:
